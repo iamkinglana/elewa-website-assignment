@@ -1,0 +1,12 @@
+.introduction-container {
+    background-image: url('https://res.cloudinary.com/dyl3rncv3/image/upload/v1679982347/elewa-group-website/hero-Images/dark-to-light_xrat5g.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+  }
